@@ -1,0 +1,12 @@
+
+
+1. abrir o porta malas
+2. pegar o estepe
+3. pegar o macaco
+5. pegar a chave
+6. levantar o carro utilizando um macaco
+6. desenroscar os parafusos do pneu furado
+8. colocar o estepe
+9. enroscar os parafusos do estepe
+10. abaixar o carro utilizando o macaco
+11. apertar os parafusos utilizando a chave de roda 
